@@ -17,6 +17,7 @@ h1 {
 }
 h3 {
   text-align: CENTER;
+  margin: auto;
 }
 input {
   display: block;
