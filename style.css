@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+}
+canvas {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-style: double;
+  border-width: 5px;
+  border-color: black;
+}
+h1 {
+  text-align: CENTER;
+}
+h3 {
+  text-align: CENTER;
+}
+input {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
